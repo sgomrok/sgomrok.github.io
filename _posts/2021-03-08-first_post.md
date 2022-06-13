@@ -1,2 +1,2 @@
-# This is my frst post
+# This is my first post
 Trying to figure out how it works
