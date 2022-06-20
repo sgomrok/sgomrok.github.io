@@ -1,4 +1,5 @@
-# Machine learning key ingredients:
+Notes are taken from machinelearningmastery [https://machinelearningmastery.com/] websit. 
+# Machine Learning Key Ingredients:
 + Data (training, test, validation)
 + 	Training data is used to defining the features (or parameters?)
 + 	Test data would not be used until model is complete, and then we test the model with it
