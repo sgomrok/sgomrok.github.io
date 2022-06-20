@@ -1,11 +1,11 @@
 # Machine learning key ingredients:
-	- Data (training, test, validation)
-		○ Training data is used to defining the features (or parameters?)
-		○ Test data would not be used until model is complete, and then we test the model with it
-	- Model (Linear regression, Logistic regression, Neural network, Support vector machine, etc.)
-	- Loss function 
-		○ It determines how good the model is working
-	- Optimization method
++ Data (training, test, validation)
++ 	Training data is used to defining the features (or parameters?)
++ 	Test data would not be used until model is complete, and then we test the model with it
++ Model (Linear regression, Logistic regression, Neural network, Support vector machine, etc.)
++ Loss function 
++ 	It determines how good the model is working
++ Optimization method
 
 
 # Supervised Learning
