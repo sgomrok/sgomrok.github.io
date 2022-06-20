@@ -32,3 +32,6 @@ Supervised learning technique uses labeled dataset to train (supervise) algorith
 	+ However, the way we evaluate classification and regression does not overlap and is unique:
 		+ Classification predictions can be evaluated using accuracy, whereas regression predictions cannot.
 		+ Regression predictions can be evaluated using root mean squared error, whereas classification predictions cannot.
+
+
+
