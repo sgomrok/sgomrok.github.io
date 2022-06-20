@@ -1,5 +1,5 @@
 Notes are taken from [machinelearningmastery](https://machinelearningmastery.com/) websit. 
-# Machine Learning Key Ingredients:
+# **Machine Learning Key Ingredients**:
 + Data (training, test, validation)
 	+ Training data is used to defining the features (or parameters?)
 	+ Test data would not be used until model is complete, and then we test the model with it
@@ -9,7 +9,7 @@ Notes are taken from [machinelearningmastery](https://machinelearningmastery.com
 + Optimization method
 
 
-# Supervised Learning
+# **Supervised Learning**:
 Supervised learning technique uses labeled dataset to train (supervise) algorithms into classifying data or predicting outcomes accurately.
 + **Classification**:
 	+ Creating a predictive mapping function from input variables (x) to discrete output variables (y)
