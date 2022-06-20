@@ -1,1 +1,1 @@
-My first personal blog ever!
+This is my first personal blog ever! I'm a Ph.D. student at the University of Memphis, Department od Chemistry. My research focus is in Physical Chemistry, but I found my passion about a year ago in Bioinformatics. I've been learning ever since step by step and absolutely enjoyed the path so far. I'm looking forward to persue my career in this field.
